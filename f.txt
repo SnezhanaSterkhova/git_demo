@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
+Lisäsin tämän Githubissa
 Tätä tekstiä ei ole paikallisessa työhakemistossa
 f
-=======
-# f
 Tätä tekstiä ei ole Githubissa
->>>>>>> Stashed changes
